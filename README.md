@@ -1,5 +1,5 @@
 
-<br>🌱 I’m currently learning Web 3<br>
+<br>🌱 Building On-Chain<br>
 
 
 
