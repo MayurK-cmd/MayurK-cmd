@@ -1,3 +1,3 @@
-Building & Breaking https://github.com/MayurK-cmd/Pacificia-Trading-Bot
-<br>
-1x Hack Winner 
+- Building [Pacifica Pilot](https://github.com/MayurK-cmd/Pacificia-Trading-Bot)
+- Full Stack & Web3 Dev
+- 1x Hack Winner
